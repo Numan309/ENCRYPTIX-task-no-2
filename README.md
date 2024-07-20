@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 
     bash
 
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Numan309/ENCRYPTIX-task-no-2.git
 
 Navigate to the project directory:
 
